@@ -1,4 +1,4 @@
-$("body").fadeIn(1000);
+$("main").fadeIn(1000);
 
 $(document).ready(function () {
   let feedCount = localStorage.getItem("feedCount")
