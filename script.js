@@ -1,5 +1,3 @@
-$("main").fadeIn(1000);
-
 $(document).ready(function () {
   let feedCount = localStorage.getItem("feedCount")
     ? parseInt(localStorage.getItem("feedCount"))
