@@ -5,7 +5,7 @@
 ## 遊び方
 
 github pages
-https://masayoshi1111.github.io/Monstars-Evolution/
+https://masvc.github.io/Monstars-Evolution/
 
 1. ページを開くと、モンスターが表示されます。
 2. 「餌を与える」ボタンをクリックすると、モンスターが成長し、餌やり回数がカウントされます。
